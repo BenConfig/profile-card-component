@@ -10,8 +10,8 @@ module.exports = {
         "dark-gray": "hsl(0, 0%, 59%)",
       },
       backgroundImage: {
-        'body': "url('/images/bg-pattern-top.svg'), url('/images/bg-pattern-bottom.svg')",
-        'card': "url('/images/bg-pattern-card.svg'), linear-gradient(transparent 76%, hsl(0, 0%, 70%) calc(76% + 1px), transparent 0)",
+        'body': "url('.images/bg-pattern-top.svg'), url('images/bg-pattern-bottom.svg')",
+        'card': "url('images/bg-pattern-card.svg'), linear-gradient(transparent 76%, hsl(0, 0%, 70%) calc(76% + 1px), transparent 0)",
       },
       backgroundPosition: {
         'position': "bottom 40vh right 50vw, top 40vh left 50vw",
